@@ -1,7 +1,7 @@
 {
 	"name": "vscode-dev-container-port-test",
 	"dockerComposeFile": "docker-compose.yml",
-	"service": "php",
+	"service": "nginx",
 	"workspaceFolder": "/",
 	"forwardPorts": [80],
 }
